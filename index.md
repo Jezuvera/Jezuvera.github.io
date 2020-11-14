@@ -18,7 +18,7 @@
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "https://teachablemachine.withgoogle.com/models/mwFS6mR_o/";
+    const URL = "https://teachablemachine.withgoogle.com/models/UlyTrmnQm/";
 
     let model, webcam, labelContainer, maxPredictions;
 
@@ -66,4 +66,3 @@
         }
     }
 </script>
-
